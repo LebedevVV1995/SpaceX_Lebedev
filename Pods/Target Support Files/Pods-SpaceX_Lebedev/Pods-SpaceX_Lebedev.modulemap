@@ -1,0 +1,6 @@
+framework module Pods_SpaceX_Lebedev {
+  umbrella header "Pods-SpaceX_Lebedev-umbrella.h"
+
+  export *
+  module * { export * }
+}
